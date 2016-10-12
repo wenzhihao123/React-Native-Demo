@@ -1,7 +1,7 @@
 # React-Native-Demo
 ###效果图###
 ![Image text](http://ww4.sinaimg.cn/large/0060lm7Tgw1f8pefl406gg30b10i51kz.gif)
-项目结构：
+###项目结构：###
 第三方底部导航组件的使用 react-native-tab-navigator
 第三方滑动组件react-native-viewpager
 自定义组件的使用
