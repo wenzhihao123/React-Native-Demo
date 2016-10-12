@@ -10,6 +10,7 @@
 - 刷新时的Loading页面
 - 图片瀑布流的使用
 - 个人中心页面上
+
 ###项目需要手动去安装第三方库###
 - react-native-tab-navigator：https://github.com/exponentjs/react-native-tab-navigator
 - react-native-viewpager：https://github.com/race604/react-native-viewpager
